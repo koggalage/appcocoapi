@@ -1,0 +1,14 @@
+C:\Users\kogztp\source\repos\CocoChicApp.API\CocoChicApp.Mapping\bin\Debug\netcoreapp2.2\CocoChicApp.Mapping.deps.json
+C:\Users\kogztp\source\repos\CocoChicApp.API\CocoChicApp.Mapping\bin\Debug\netcoreapp2.2\CocoChicApp.Mapping.dll
+C:\Users\kogztp\source\repos\CocoChicApp.API\CocoChicApp.Mapping\bin\Debug\netcoreapp2.2\CocoChicApp.Mapping.pdb
+C:\Users\kogztp\source\repos\CocoChicApp.API\CocoChicApp.Mapping\bin\Debug\netcoreapp2.2\CocoChicApp.Contract.dll
+C:\Users\kogztp\source\repos\CocoChicApp.API\CocoChicApp.Mapping\bin\Debug\netcoreapp2.2\CocoChicApp.EF.dll
+C:\Users\kogztp\source\repos\CocoChicApp.API\CocoChicApp.Mapping\bin\Debug\netcoreapp2.2\CocoChicApp.Contract.pdb
+C:\Users\kogztp\source\repos\CocoChicApp.API\CocoChicApp.Mapping\bin\Debug\netcoreapp2.2\CocoChicApp.EF.pdb
+C:\Users\kogztp\source\repos\CocoChicApp.API\CocoChicApp.Mapping\obj\Debug\netcoreapp2.2\CocoChicApp.Mapping.csprojAssemblyReference.cache
+C:\Users\kogztp\source\repos\CocoChicApp.API\CocoChicApp.Mapping\obj\Debug\netcoreapp2.2\CocoChicApp.Mapping.csproj.CoreCompileInputs.cache
+C:\Users\kogztp\source\repos\CocoChicApp.API\CocoChicApp.Mapping\obj\Debug\netcoreapp2.2\CocoChicApp.Mapping.AssemblyInfoInputs.cache
+C:\Users\kogztp\source\repos\CocoChicApp.API\CocoChicApp.Mapping\obj\Debug\netcoreapp2.2\CocoChicApp.Mapping.AssemblyInfo.cs
+C:\Users\kogztp\source\repos\CocoChicApp.API\CocoChicApp.Mapping\obj\Debug\netcoreapp2.2\CocoChicApp.Mapping.csproj.CopyComplete
+C:\Users\kogztp\source\repos\CocoChicApp.API\CocoChicApp.Mapping\obj\Debug\netcoreapp2.2\CocoChicApp.Mapping.dll
+C:\Users\kogztp\source\repos\CocoChicApp.API\CocoChicApp.Mapping\obj\Debug\netcoreapp2.2\CocoChicApp.Mapping.pdb

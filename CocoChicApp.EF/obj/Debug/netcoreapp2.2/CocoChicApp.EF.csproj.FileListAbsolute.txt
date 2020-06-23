@@ -1,0 +1,11 @@
+C:\Users\kogztp\source\repos\CocoChicApp.API\CocoChicApp.EF\bin\Debug\netcoreapp2.2\CocoChicApp.EF.deps.json
+C:\Users\kogztp\source\repos\CocoChicApp.API\CocoChicApp.EF\bin\Debug\netcoreapp2.2\CocoChicApp.EF.runtimeconfig.json
+C:\Users\kogztp\source\repos\CocoChicApp.API\CocoChicApp.EF\bin\Debug\netcoreapp2.2\CocoChicApp.EF.runtimeconfig.dev.json
+C:\Users\kogztp\source\repos\CocoChicApp.API\CocoChicApp.EF\bin\Debug\netcoreapp2.2\CocoChicApp.EF.dll
+C:\Users\kogztp\source\repos\CocoChicApp.API\CocoChicApp.EF\bin\Debug\netcoreapp2.2\CocoChicApp.EF.pdb
+C:\Users\kogztp\source\repos\CocoChicApp.API\CocoChicApp.EF\obj\Debug\netcoreapp2.2\CocoChicApp.EF.csprojAssemblyReference.cache
+C:\Users\kogztp\source\repos\CocoChicApp.API\CocoChicApp.EF\obj\Debug\netcoreapp2.2\CocoChicApp.EF.csproj.CoreCompileInputs.cache
+C:\Users\kogztp\source\repos\CocoChicApp.API\CocoChicApp.EF\obj\Debug\netcoreapp2.2\CocoChicApp.EF.AssemblyInfoInputs.cache
+C:\Users\kogztp\source\repos\CocoChicApp.API\CocoChicApp.EF\obj\Debug\netcoreapp2.2\CocoChicApp.EF.AssemblyInfo.cs
+C:\Users\kogztp\source\repos\CocoChicApp.API\CocoChicApp.EF\obj\Debug\netcoreapp2.2\CocoChicApp.EF.dll
+C:\Users\kogztp\source\repos\CocoChicApp.API\CocoChicApp.EF\obj\Debug\netcoreapp2.2\CocoChicApp.EF.pdb

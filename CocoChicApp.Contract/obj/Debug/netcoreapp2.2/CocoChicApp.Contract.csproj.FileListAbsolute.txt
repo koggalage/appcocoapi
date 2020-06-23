@@ -1,0 +1,9 @@
+C:\Users\kogztp\source\repos\CocoChicApp.API\CocoChicApp.Contract\bin\Debug\netcoreapp2.2\CocoChicApp.Contract.deps.json
+C:\Users\kogztp\source\repos\CocoChicApp.API\CocoChicApp.Contract\bin\Debug\netcoreapp2.2\CocoChicApp.Contract.dll
+C:\Users\kogztp\source\repos\CocoChicApp.API\CocoChicApp.Contract\bin\Debug\netcoreapp2.2\CocoChicApp.Contract.pdb
+C:\Users\kogztp\source\repos\CocoChicApp.API\CocoChicApp.Contract\obj\Debug\netcoreapp2.2\CocoChicApp.Contract.csprojAssemblyReference.cache
+C:\Users\kogztp\source\repos\CocoChicApp.API\CocoChicApp.Contract\obj\Debug\netcoreapp2.2\CocoChicApp.Contract.csproj.CoreCompileInputs.cache
+C:\Users\kogztp\source\repos\CocoChicApp.API\CocoChicApp.Contract\obj\Debug\netcoreapp2.2\CocoChicApp.Contract.AssemblyInfoInputs.cache
+C:\Users\kogztp\source\repos\CocoChicApp.API\CocoChicApp.Contract\obj\Debug\netcoreapp2.2\CocoChicApp.Contract.AssemblyInfo.cs
+C:\Users\kogztp\source\repos\CocoChicApp.API\CocoChicApp.Contract\obj\Debug\netcoreapp2.2\CocoChicApp.Contract.dll
+C:\Users\kogztp\source\repos\CocoChicApp.API\CocoChicApp.Contract\obj\Debug\netcoreapp2.2\CocoChicApp.Contract.pdb
